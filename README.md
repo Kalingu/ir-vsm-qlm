@@ -24,3 +24,5 @@ How it Uses the Individual Project: https://github.com/Kalingu/ir-crawler/tree/m
 Uses the CrawledPages or assets/ from the individual project as input data
 
 Uses the previously generated inverted index as the foundation for search models
+
+Purpose in Combined Project: Serves as the data source (HTML pages + inverted index) for the VSM + QLM search models : https://github.com/Kalingu/ir-vsm-qlm
