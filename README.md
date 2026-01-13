@@ -18,3 +18,9 @@ This project implements an **Information Retrieval System** using:
 
 ```bash
 pip install -r requirements.txt
+
+How it Uses the Individual Project: https://github.com/Kalingu/ir-crawler/tree/main
+
+Uses the CrawledPages or assets/ from the individual project as input data
+
+Uses the previously generated inverted index as the foundation for search models
